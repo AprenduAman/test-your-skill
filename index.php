@@ -183,7 +183,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <a href="#" data-toggle="modal" data-target="#developers">Developers</a>
 </div>
 <div class="col-md-3 box">
-<a href="feedback.php" target="_blank">Feedback</a></div></div>
+<a href="feedback.php" target="_self">Feedback</a></div></div>
 <!-- Modal For Developers-->
 <div class="modal fade title1" id="developers">
   <div class="modal-dialog">
